@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GW Smart Lock</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">theme</string>
+
+    <string name="ble_not_supported">BLE is not supported</string>
+    <string name="label_data">Verifying...</string>
+    <string name="label_device_address">MAC Address：</string>
+    <string name="label_state">connection state：</string>
+    <string name="no_data">Please wait a moment ...</string>
+    <string name="connected">connected</string>
+    <string name="disconnected">not connected </string>
+    <string name="title_devices">BLE Device Scan</string>
+    <string name="error_bluetooth_not_supported">Bluetooth not supported.</string>
+
+    <string name="unknown_device">Unknown device</string>
+    <string name="unknown_characteristic">Unknown characteristic</string>
+    <string name="unknown_service">Unknown service</string>
+
+    <!-- Menu items -->
+    <string name="menu_connect">Connect</string>
+    <string name="menu_disconnect">Disconnect</string>
+    <string name="menu_scan">Scan</string>
+    <string name="menu_stop">Stop</string>
+    
+    <!-- new add -->
+    <string name="mac_address">MAC Address</string>
+    <string name="mac_add">MAC Address</string>
+    <string name="verifying">Verifying...</string>
+    <string name="check_information">Check Information</string>
+    <string name="modify_content">Modify Content</string>
+    <string name="delete_key">Delete Key</string>
+    <string name="key_information">Key Information</string>
+    <string name="name">Name</string>
+    <string name="type">Type</string>
+    <string name="device_name">Device Name</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="office">Office</string>
+    <string name="meeting_room">Meeting Room</string>
+    <string name="dormitory_building">Dormitory Building</string>
+    <string name="add_key">Add Key</string>
+    <string name="password">Password</string>
+    <string name="data_modification">Data Modification</string>
+    <string name="back">Back</string>
+    <string name="submit">Submit</string>
+    
+    <!-- toast text -->
+    <string name="toast_key">Key</string>
+    <string name="toast_added">has been added</string>
+    <string name="toast_name_add_failed">Add failed because of name repetition</string>
+    <string name="toast_mac_add_failed">Add failed because of MAC address repetition</string>
+    <string name="toast_name_modify_failed">name has been exist</string>
+</resources>
